@@ -1,6 +1,6 @@
-variable "resource_group_name" {}
-variable "location" {}
-variable "storage_account_name" {}
-variable "storage_container_name" {}
-variable "storage_blob_name" {}
-variable "storage_blob_type" {}
+variable "nazwa_grupy_zasobow" {}
+variable "lokalizacja" {}
+variable "nazwa_konta_przechowywania" {}
+variable "nazwa_kontenera_przechowywania" {}
+variable "nazwa_bloba_przechowywania" {}
+variable "typ_bloba_przechowywania" {}
